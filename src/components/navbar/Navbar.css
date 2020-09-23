@@ -1,0 +1,14 @@
+ul li {
+    display: inline;
+    padding: 2em;
+  }
+
+.navwraper{
+    display: flex;
+}
+.navigation {
+    align-self: flex-end;
+}
+.logoImage {
+    width: 50%;
+}
