@@ -1,12 +1,15 @@
 import React from "react";
 import "./Main.css";
+import Card from '../mainCard/Card'
 
 const Main = () => {
   return (
-    <div className="content">
-      <div className="contentBox">Start up</div>
-      <div className="contentBox">Maintanance</div>
-      <div className="contentBox">About us</div>
+      <div className="content">
+          <Card />
+          <Card />
+          <Card />
+
+
     </div>
   );
 };
