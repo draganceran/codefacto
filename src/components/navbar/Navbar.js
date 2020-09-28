@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <header>
       <div className="navwraper">
-        <div className="logo right">
+        <div className="navigationRight">
           <img src={logo} alt="company logo" className="logoImage"></img>
         </div>
         <div className="navigationLeft">

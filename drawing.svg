@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       id="perspective979"
+       inkscape:persp3d-origin="91.444479 : 108.65781 : 1"
+       inkscape:vp_z="202.18911 : 143.45546 : 1"
+       inkscape:vp_y="135.664 : 990.7549 : 0"
+       inkscape:vp_x="-5.869417 : 171.9449 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-text-baseline="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6773153"
+     inkscape:cx="409.14778"
+     inkscape:cy="594.63303"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="1920"
+     inkscape:window-y="111"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       id="guide1074"
+       orientation="0,-1"
+       position="89.929948,127.53019" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;stroke:#008080;stroke-width:0.165"
+       id="rect10"
+       width="55.940475"
+       height="55.940475"
+       x="61.232147"
+       y="65.011902" />
+    <rect
+       y="68.686508"
+       x="64.906754"
+       height="48.591263"
+       width="48.591263"
+       id="rect10-1"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.643;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.77148px;line-height:1.25;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari';fill:#000000;stroke-width:0.169288"
+       x="62.812603"
+       y="122.01852"
+       id="text14"
+       inkscape:transform-center-x="-6.0957258"
+       inkscape:transform-center-y="-2.2546232"
+       transform="scale(1.0480273,0.95417361)"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="62.812603"
+         y="122.01852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari';fill:#000000;stroke-width:0.169288">CO<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari';baseline-shift:super;fill:#000000"
+   id="tspan20">.</tspan><tspan
+   id="tspan897"
+   style="fill:#aa0000">DE</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari';baseline-shift:super;fill:#000000"
+   id="tspan18">.</tspan>FACTO</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.22875599999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 78.964139,109.52274 H 111.56948"
+       id="path16" />
+    <g
+       inkscape:corner7="-0.42169631 : 0.076006842 : 0.25 : 1"
+       inkscape:corner0="-0.29062224 : 0.096888775 : 0 : 1"
+       inkscape:perspectiveID="#perspective979"
+       style="fill:#000000;stroke:#000000;stroke-width:2.43024"
+       id="g981"
+       sodipodi:type="inkscape:box3d">
+      <path
+         points="190.28189,94.168392 186.86173,119.1458 160.53002,119.95315 163.4829,98.38826 "
+         d="m 163.4829,98.38826 26.79899,-4.219868 -3.42016,24.977408 -26.33171,0.80735 z"
+         inkscape:box3dsidetype="11"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path993"
+         sodipodi:type="inkscape:box3dside" />
+      <path
+         points="145.84846,108.11482 160.53002,119.95315 163.4829,98.38826 149.842,78.949998 "
+         d="m 149.842,78.949998 -3.99354,29.164822 14.68156,11.83833 2.95288,-21.56489 z"
+         inkscape:box3dsidetype="6"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path983"
+         sodipodi:type="inkscape:box3dside" />
+      <path
+         points="185.13441,68.500152 190.28189,94.168392 163.4829,98.38826 149.842,78.949998 "
+         d="m 149.842,78.949998 35.29241,-10.449846 5.14748,25.66824 -26.79899,4.219868 z"
+         inkscape:box3dsidetype="5"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path985"
+         sodipodi:type="inkscape:box3dside" />
+      <path
+         points="180.23573,104.27526 186.86173,119.1458 160.53002,119.95315 145.84846,108.11482 "
+         d="m 145.84846,108.11482 34.38727,-3.83956 6.626,14.87054 -26.33171,0.80735 z"
+         inkscape:box3dsidetype="13"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path991"
+         sodipodi:type="inkscape:box3dside" />
+      <path
+         points="180.23573,104.27526 186.86173,119.1458 190.28189,94.168392 185.13441,68.500152 "
+         d="m 185.13441,68.500152 -4.89868,35.775108 6.626,14.87054 3.42016,-24.977408 z"
+         inkscape:box3dsidetype="14"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path989"
+         sodipodi:type="inkscape:box3dside" />
+      <path
+         points="185.13441,68.500152 180.23573,104.27526 145.84846,108.11482 149.842,78.949998 "
+         d="m 149.842,78.949998 35.29241,-10.449846 -4.89868,35.775108 -34.38727,3.83956 z"
+         inkscape:box3dsidetype="3"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path987"
+         sodipodi:type="inkscape:box3dside" />
+    </g>
+    <text
+       transform="scale(1.0480273,0.95417362)"
+       inkscape:transform-center-y="-2.2546232"
+       inkscape:transform-center-x="-6.0957258"
+       id="text14-7"
+       y="177.60899"
+       x="75.196129"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.77148px;line-height:1.25;font-family:Menlo;-inkscape-font-specification:'Menlo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.169288"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.77148px;font-family:Menlo;-inkscape-font-specification:'Menlo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.169288"
+         y="177.60899"
+         x="75.196129"
+         id="tspan12-4"
+         sodipodi:role="line">CO<tspan
+   id="tspan20-8"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.77148px;font-family:Menlo;-inkscape-font-specification:'Menlo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:super;fill:#000000;stroke-width:0.169288">.</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.77148px;font-family:Menlo;-inkscape-font-specification:'Menlo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.169288"
+   id="tspan897-7">DE</tspan><tspan
+   id="tspan18-5"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.77148px;font-family:Menlo;-inkscape-font-specification:'Menlo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:super;fill:#000000;stroke-width:0.169288">.</tspan>FACTO</tspan></text>
+  </g>
+</svg>

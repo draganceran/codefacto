@@ -8,17 +8,29 @@
 }
 .rightHero{
     width: 50%;
-    object-fit: cover;
+    background-image: url('../../assets/images/hardwear.jpg');
+    background-position: center;
+    background-size: cover;
 }
 .hero{
-    height: 60vh;
     width: 100%;
     display: flex;
     flex-direction: row;
+    height: 60vh;
 }
 
-  .heroImage {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-  };
+  @media (max-width: 599px) {
+    .hero {
+        display: flex;
+        flex-direction: column;
+    }
+    .leftHero{
+        width:100%;
+    }
+    .rightHero{
+        width:100%;
+        height: 50%;
+        
+    }
+     
+ }
